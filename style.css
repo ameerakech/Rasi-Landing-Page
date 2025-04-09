@@ -31,7 +31,7 @@ margin-top: 2.8cm;
  margin-left: 3cm;
 }
 .nav-image{
-    background-image:url(photo.jpg) ;
+    background-image:url(images/photo.jpg) ;
     background-image: linear-gradient(rgba(128, 128, 128, 0.986));
     background-position: center;
     background-repeat: no-repeat;
@@ -57,12 +57,14 @@ h2{
     text-align: center;
 }
 #left-img-cushion{
-    width: 80%;
+    width: 550px;
+    height: 12cm;
 
 }
 .Rasi-printing-text{
     display: flex;
     margin: 2cm;
+    gap: 5cm;
 }
 #know-more{
     display: flex;
@@ -83,7 +85,7 @@ h2{
     
 }
 .rasi-text{
-    font-size: 130%;
+    font-size: 130%; 
 }
 #screen-printing-text{
     color: greenyellow;
@@ -356,9 +358,7 @@ margin-left: 0px;
 margin-top: 100px;
 margin-top: rgba(0, 128, 0, 0.671);
 }
-.navigation{
-    
-}
+
 .navigation-text{
     text-align: center;
     font-size: 130%;
