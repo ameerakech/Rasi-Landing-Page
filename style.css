@@ -1,0 +1,434 @@
+nav ul{
+    list-style: none;
+    display: flex;
+    gap: 2cm;
+    margin-left: 280px;
+    margin-top: 100px;
+    margin-top: rgba(0, 128, 0, 0.671);
+
+
+
+}
+.navigation-bars{
+    display: flex;
+}
+.navigation-text{
+    text-align: center;
+    font-size: 150%;
+    margin-top: 4cm;
+}
+#top-text{
+    border: solid 1px;
+    background-color:green;
+    padding: 5px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 120%;
+    margin-top: auto;
+}
+.phone-icon{
+margin-top: 2.8cm;
+ margin-left: 3cm;
+}
+.nav-image{
+    background-image:url(photo.jpg) ;
+    background-image: linear-gradient(rgba(128, 128, 128, 0.986));
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: solid 1px;
+    height:88vh ;
+    color: white;
+}
+
+#contactus-button{
+    width: 10%;
+    padding: 10px;
+    font-size: 80%;
+    
+}
+#rasi{
+    color: white;
+    font-size:150%;
+    font-weight: bold;
+    text-decoration: none;
+}
+h2{
+    text-align: center;
+}
+#left-img-cushion{
+    width: 80%;
+
+}
+.Rasi-printing-text{
+    display: flex;
+    margin: 2cm;
+}
+#know-more{
+    display: flex;
+    border-radius: 15px;
+    width: 2.5cm;
+    background-color: greenyellow;
+    color: white;
+    font-size: 80%;
+    font-weight: bold;
+    padding: 5px;
+
+}
+#contact-us{
+    display: flex;
+    width: 2.5cm;
+    border-radius: 15px;
+    font-weight: bold;
+    
+}
+.rasi-text{
+    font-size: 130%;
+}
+#screen-printing-text{
+    color: greenyellow;
+    font-size: 130%;
+    font-weight: bold;
+}
+.button-knowmore{
+    display: flex;
+    gap: 3cm;
+}
+
+.linear-icons{
+    display: flex;
+    border: solid 1px;
+    gap: 6cm;
+    background-color: #d9d9d9;
+
+}
+.trophy{
+    width: 10%;
+    margin-left:90px ;
+    display: flex;
+}
+.hand-gift{
+    width: 10%;
+    display: flex;
+
+}
+
+.headphones{
+    margin-top: 1cm;
+    display: flex;
+    
+}
+.badge-check{
+    display: flex;
+    margin-top: 1cm;
+    gap: 0.5cm;
+
+}
+.screen-printing-images{
+    display: flex;
+    gap: 4cm;
+    margin-left: 4cm;
+}
+h4{
+    text-align: center;
+    font-size: 170%;
+    margin-top: 3cm;
+}
+#screening-text{
+    text-align: center;
+    font-size: 160%;
+}
+#broidery-img{
+    border:none;
+    border-radius:25px;
+    width: 120%;
+}
+#screen-printing{
+    border:none;
+    border-radius:25px;
+    width: 110%;
+}
+#dye-img{
+    border:none;
+    border-radius:25px;
+    width:500px;
+    margin-top: 0.5cm;
+    
+}
+h5{
+    font-size: 150%;
+}
+   
+
+h6{
+    font-size: 200%; 
+    text-align: center; 
+}
+#discover{
+    font-size: 150%;  
+    text-align: center;
+}
+.icon-images{
+    display: flex;
+    gap: 8cm;
+    margin-left: 10cm;
+    margin-top: 1cm;
+}
+#arnid{
+width: 3cm;
+}
+#raymond{
+    width: 3cm;
+    margin-top: 1cm;
+}
+#adityia{
+    width: 3cm;
+}
+.greenimg-text{
+    display: flex;
+    gap: 4cm;
+    margin-left: 3cm;
+}
+.recommendation-text{
+    font-size: 130%;
+}
+#green-img{
+    width: 70%;
+    height: 14cm;
+}
+.images-img{
+    display: flex;
+    gap: 1.5cm;
+    margin-top: 3cm;
+}
+#arnidd-img{
+width: 8%;
+height: 3.5cm;
+}
+#gap-img{
+    width: 10%;
+    height: 4.6cm;
+    margin-bottom: auto;
+}
+#myntra-img{
+    width: 18%;
+    margin-bottom: auto;
+}
+#puma-img{
+    width: 12%;
+    margin-bottom: auto;
+
+}
+#adityiaa-img{
+    width: 10%;
+    margin-bottom: auto;
+   
+}
+#converse-img{
+    width: 10%;
+
+}
+#markala-img{
+    width: 20%;
+    border: solid;
+    width: 5cm;
+    height: 2.5cm;
+    margin-top: 1.2cm;
+    font-size: 90%;
+    
+}
+.explore-text{
+    font-size: 130%;
+    text-align: center;
+}
+.clothing-images{
+    display: flex;
+    gap: 3cm;
+    margin-left: 8cm;
+    margin-top: 2cm;
+}
+#displayed-dress{
+width: 25%;
+border-radius: 25px;
+height:12cm ;
+}
+#blue-bed{
+    width: 25%;
+    border-radius: 25px;
+    height:12cm ;
+}
+#white-dress{
+    width: 25%;
+    border-radius: 25px;
+    height:12cm ;
+}
+#woman-bedsheet{
+    margin-top: 2cm;
+    margin-left: 6cm;
+    width: 80%;
+}
+.questions{
+    font-size: 130%;
+}
+.contact-info{
+border: solid 1px;
+width: 20%;
+height: 11cm;
+margin-left: 6cm;
+background-color: white;
+border-radius: 15px;
+position: absolute;
+overflow: visible;
+margin-left: 15cm;
+margin-top: 4cm;
+
+
+
+}
+#text-on-questions{
+    text-align: center;
+}
+#googlemaps-img{
+    width: 60%;
+    margin-left: 9cm;
+    margin-top: 2cm;
+}
+
+.footerlog ul li{
+    list-style-type: none;
+    
+}
+
+.footerlog{
+    display: flex;
+    margin-top: 2cm;
+    text-decoration: none;
+    gap: 3cm;
+}
+
+.message-phonecall{
+    display: flex;
+    gap: 2cm;
+    
+}
+
+.footer-details{
+    border: solid;
+    /* background-color:rgba(0, 0, 139, 0.986); */
+    background-color: rgba(0, 0, 128, 0.966);
+}
+#rasi-screenprinting{
+    width: 10%;
+    height: 5cm;
+    margin-left: 3cm;
+    border-radius: 15px;
+}
+#copyright{
+    text-align: center;
+    font-size: x-large;
+}
+.premium-destination-text{
+    font-size: 110%;
+    color: white;
+}
+.about-us{
+    color: white;
+}
+.social-media{
+    color: white;
+}
+.footer-icons{
+    color: white;
+}
+#copyright{
+    color: white;
+}
+
+@media screen and (max-width:600px){
+.nav-image{
+    width:100%;
+}
+.navigation ul{
+list-style: none;
+display: flex;
+gap: 2cm;
+margin-left: 0px;
+margin-top: 100px;
+margin-top: rgba(0, 128, 0, 0.671);
+}
+.navigation{
+    
+}
+.navigation-text{
+    text-align: center;
+    font-size: 130%;
+    margin-top: 4cm;
+    padding:0px;
+}
+.navigation-bars{
+    font-size: 80%;
+    margin-left: 0px;
+}
+.linear-icons{
+    display: block;
+    flex-wrap: 0px;
+    border: solid 1px;
+    gap: 6cm;
+    background-color: #d9d9d9;
+
+}
+#contactus-button{
+    width: 100%;
+    font-size: 80%;
+    margin-top: 2cm
+}
+.rasi-text{
+    font-size: 100%;
+    display: block;
+    
+}
+.linear-icons{
+    display: block;
+    border: solid 1px;
+    gap: 6cm;
+    background-color: #d9d9d9;
+}
+.trophy{
+    width: 10%;
+    margin-left:90px ;
+    display:block;
+}
+.hand-gift{
+    width: 10%;
+    display: block;
+    margin-left:90px ;
+
+}
+
+.headphones{
+    margin-top: 1cm;
+    display: block;
+    margin-left:90px ;
+    
+}
+.badge-check{
+    display:block;
+    margin-top: 1cm;
+    gap: 0.5cm;
+    margin-left:90px ;
+
+}
+#screen-printing-text{
+    color: greenyellow;
+    font-size: 130%;
+    font-weight: bold;
+}
+.screen-printing-images{
+    display: block;
+    gap: 4cm;
+    margin-left: 0cm;
+}
+
+
+
+}
